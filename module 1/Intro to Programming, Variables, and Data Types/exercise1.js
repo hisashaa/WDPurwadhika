@@ -49,9 +49,4 @@ const days = ((totalDays % daysInYear) % daysInMonth).toFixed()
 
 console.log(`${years} years, ${months} months, ${days} days`)
 
-//COMPARISON OPERATORS//
-let = num1 = 2;
-let = num2 = 2;
-console.log(num1 == num2)
-
 //End of the Exercise 1//
